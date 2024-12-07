@@ -241,6 +241,7 @@ int main() {
         if (ostatki[0] != ostatki[1] && ostatki[1] != ostatki[2] && ostatki[2] != ostatki[3]) {
             // Если все условия выполнены, выводим число в десятичной и троичной системах
             cout << n << "(10) = " << ostatki << "(3)" << endl;
+            //za Stalina
         }
     }
 }
