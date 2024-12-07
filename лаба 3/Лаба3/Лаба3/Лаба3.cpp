@@ -242,7 +242,7 @@ int main() {
             // Если все условия выполнены, выводим число в десятичной и троичной системах
             cout << n << "(10) = " << ostatki << "(3)" << endl;
             //za Stalina
-            //Brezhnev Baruga
+            //Brezhnev BarugAAA
         }
     }
 }
